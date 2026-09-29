@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+
+# Local configuration. Every key has a working default and the full list is in
+# the README, so nothing here needs committing.
+.env
+.env.*
+
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
